@@ -1,0 +1,9 @@
+##TEST##
+<Info>
+{'Displayname':'Save1','Playername':'Bai','Timestamp':'20201107'}
+<Info>
+
+<Entities>
+{'name':'Tank1','model':'99A','top_direction':30,'bottom_direction':60,'position':(10,30)}
+{'name':'Tank2','model':'99A','top_direction':30,'bottom_direction':60,'position':(10,30)}
+<Entities>
